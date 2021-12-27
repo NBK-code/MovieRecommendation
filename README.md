@@ -1,2 +1,2 @@
-# Movie_Recommendation_System
+# Movie Recommendation System
 Alternating Least Square model for movie recommendation
